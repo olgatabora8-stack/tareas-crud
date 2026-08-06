@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1 class="uppercase  text-2xl bg-amber-600 font-bold text-center py-4">control de tareas en PHP</h1>
+    <?php require_once "config/conexion.php"; ?>
     
 </body>
 </html>
